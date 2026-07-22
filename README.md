@@ -3,10 +3,6 @@
 This repository contains examples, documentation, and technical resources for a custom development board based on the **STM32H743IIT6** microcontroller. The board is designed for embedded system development, featuring high-performance peripherals and extensive connectivity options.
 
 ---
-![Board Image](/PIC/TOP.png)a
-![Board Image](/PIC/BOTTOM.png)
-![Board Image](/PIC/PCB.png)
----
 
 ## 🧠 Specifications
 
@@ -28,4 +24,8 @@ This repository contains examples, documentation, and technical resources for a 
 - **Power Supply**: 7–30V DC input (0.05–0.5A)
 - **PCB Dimensions**: 10x10 cm, 4-layer design
 
+---
+![Board Image](/PIC/TOP.png)a
+![Board Image](/PIC/BOTTOM.png)
+![Board Image](/PIC/PCB.png)
 ---

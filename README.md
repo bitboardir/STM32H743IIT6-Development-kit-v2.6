@@ -3,9 +3,9 @@
 This repository contains examples, documentation, and technical resources for a custom development board based on the **STM32H743IIT6** microcontroller. The board is designed for embedded system development, featuring high-performance peripherals and extensive connectivity options.
 
 ---
-![Board Image](/TOP.PNG)a
-![Board Image](/BOTTOM.PNG)
-![Board Image](/PCB.PNG)
+![Board Image](/PIC/TOP.PNG)a
+![Board Image](/PIC/BOTTOM.PNG)
+![Board Image](/PIC/PCB.PNG)
 ---
 
 ## 🧠 Specifications

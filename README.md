@@ -5,6 +5,7 @@ This repository contains examples, documentation, and technical resources for a 
 ---
 ![Board Image](/TOP.PNG)a
 ![Board Image](/BOTTOM.PNG)
+![Board Image](/PCB.PNG)
 ---
 
 ## 🧠 Specifications

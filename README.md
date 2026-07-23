@@ -10,7 +10,7 @@ This repository contains examples, documentation, and technical resources for a 
 - **Internal Flash**: 2 MB
 - **External QSPI Flash**: 16 MB
 - **External SDRAM**: 16 MB (32-bit interface)
-- **Display Interface**: LTDC
+- **Display Interface**: LTDC 50pin
 - **Touch Panel Support**: Resistive and Capacitive
 - **Ethernet**: 10/100 Mbps with LAN8720 PHY
 - **GSM Modules**: Compatible with SIM800C or M08-R(default installed)
